@@ -2,7 +2,7 @@ https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about<br>
 https://stackblitz.com/edit/angular-editor-wysiwyg<br>
 https://stackblitz.com/edit/stepper-dynamic-gpwp1x?file=src%2Fapp%2Fapp.component.ts<br>
 https://akveo.github.io/nebular/docs/components/accordion/overview#nbaccordioncomponent<br>
-Dynamic Inputs : https://stackblitz.com/edit/angular-dynamic-form-fields
+Dynamic Inputs : https://stackblitz.com/edit/angular-dynamic-form-fields , https://stackblitz.com/edit/add-items-dynamically-with-ngfor
 <hr>
 # SuffixClassroom
 
